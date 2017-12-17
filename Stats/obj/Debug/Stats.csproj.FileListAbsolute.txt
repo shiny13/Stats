@@ -1,0 +1,6 @@
+c:\users\shahnawaz\documents\visual studio 2017\Projects\Stats\Stats\bin\Debug\Stats.exe.config
+c:\users\shahnawaz\documents\visual studio 2017\Projects\Stats\Stats\bin\Debug\Stats.exe
+c:\users\shahnawaz\documents\visual studio 2017\Projects\Stats\Stats\bin\Debug\Stats.pdb
+c:\users\shahnawaz\documents\visual studio 2017\Projects\Stats\Stats\obj\Debug\Stats.csprojResolveAssemblyReference.cache
+c:\users\shahnawaz\documents\visual studio 2017\Projects\Stats\Stats\obj\Debug\Stats.exe
+c:\users\shahnawaz\documents\visual studio 2017\Projects\Stats\Stats\obj\Debug\Stats.pdb
